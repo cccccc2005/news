@@ -1,0 +1,10 @@
+.DS_Store
+.idea/
+.~*
+*.tmp
+*.csv
+*.parquet
+*.pkl
+__pycache__/
+*.pyc
+三部作品原文

@@ -1,0 +1,10 @@
+pandas
+numpy
+jieba
+matplotlib
+seaborn
+PyPDF2
+pdfplumber
+openpyxl
+python-docx
+
